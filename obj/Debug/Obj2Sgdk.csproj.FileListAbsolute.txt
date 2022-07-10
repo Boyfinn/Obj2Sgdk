@@ -1,0 +1,14 @@
+F:\Ohjelmointi\obj2sgdk\Obj2Sgdk\Obj2Sgdk\bin\Debug\Obj2Sgdk.exe.config
+F:\Ohjelmointi\obj2sgdk\Obj2Sgdk\Obj2Sgdk\bin\Debug\Obj2Sgdk.exe
+F:\Ohjelmointi\obj2sgdk\Obj2Sgdk\Obj2Sgdk\bin\Debug\Obj2Sgdk.pdb
+F:\Ohjelmointi\obj2sgdk\Obj2Sgdk\Obj2Sgdk\obj\Debug\Obj2Sgdk.csprojAssemblyReference.cache
+F:\Ohjelmointi\obj2sgdk\Obj2Sgdk\Obj2Sgdk\obj\Debug\Obj2Sgdk.csproj.CoreCompileInputs.cache
+F:\Ohjelmointi\obj2sgdk\Obj2Sgdk\Obj2Sgdk\obj\Debug\Obj2Sgdk.exe
+F:\Ohjelmointi\obj2sgdk\Obj2Sgdk\Obj2Sgdk\obj\Debug\Obj2Sgdk.pdb
+F:\Pelit\Megadev\Megadev\Obj2Sgdk\Obj2Sgdk\bin\Debug\Obj2Sgdk.exe.config
+F:\Pelit\Megadev\Megadev\Obj2Sgdk\Obj2Sgdk\bin\Debug\Obj2Sgdk.exe
+F:\Pelit\Megadev\Megadev\Obj2Sgdk\Obj2Sgdk\bin\Debug\Obj2Sgdk.pdb
+F:\Pelit\Megadev\Megadev\Obj2Sgdk\Obj2Sgdk\obj\Debug\Obj2Sgdk.csprojAssemblyReference.cache
+F:\Pelit\Megadev\Megadev\Obj2Sgdk\Obj2Sgdk\obj\Debug\Obj2Sgdk.csproj.CoreCompileInputs.cache
+F:\Pelit\Megadev\Megadev\Obj2Sgdk\Obj2Sgdk\obj\Debug\Obj2Sgdk.exe
+F:\Pelit\Megadev\Megadev\Obj2Sgdk\Obj2Sgdk\obj\Debug\Obj2Sgdk.pdb
